@@ -8,17 +8,22 @@ O jogo desenvolvido está longe de ser um jogo completo, mas foi um instrumento 
 - Python Arcade
 ### Arte visual
 - Canva
-- Pixilart
+### Trilha sonora
+- Voz
 
 ## Enredo
 Enfrentando sentimentos de profunda tristeza, Lia é movida pela necessidade encontrar conforto a qualquer custo. Ela encontra um portal escondido em seu mundo que a leva para uma outra dimensão. O que será que vai acontecer?
 
-## Equipe
-Professora Daniele Fernandes e Silva
-- Desenvolvedora
-- Game designer
-- Artista visual
 
-## Print Screens
+## Screenshots
 ![screen1](https://github.com/danielefernandes/profundezas-do-coracao/blob/main/images/screen1.PNG)
 ![screen2](https://github.com/danielefernandes/profundezas-do-coracao/blob/main/images/screen2.PNG)
+
+
+### Jogos desenvolvido pelos alunos da Turma INFO30 de 2024
+Confira a lista dos projetos:
+[![Yaroslav303](https://github.com/JoaoMachado26/Yaroslav303/blob/main/Pictures/telaInicial.PNG)](https://github.com/JoaoMachado26/Yaroslav303)
+[![HAM](https://github.com/user-attachments/assets/d43f5a99-01e1-412f-8ce0-ffc6d057d42e)](https://github.com/luanp8/HAM)
+[![Gravity-Jumper](https://github.com/user-attachments/assets/3945286c-2d6b-4ea7-8185-59293d71f9b5)](https://github.com/Alycia6666/Gravity-Jumper)
+[![Fluffy-s-Adventures](https://github.com/Rafaela-Menezes/Fluffy-s-Adventures/blob/main/Tela%20inicial.PNG)](https://github.com/Rafaela-Menezes/Fluffy-s-Adventures)
+[![CoguLand](https://github.com/user-attachments/assets/e0fe0052-9b0b-4b85-a45e-a4e9ba25f210)](https://github.com/G4bri3li/CoguLand) 
